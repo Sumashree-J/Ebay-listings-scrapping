@@ -13,3 +13,5 @@ This notebook contains a python code which performs web scraping on eBay listing
 - Read the saved HTML file and parse it using BeautifulSoup, extracting the required details of phone listings.
 - Set up a connection to a MongoDB database and create a table for storing the phone listing information.
 - Save the extracted data to the MongoDB table for further analysis and manipulation.
+
+</div>
